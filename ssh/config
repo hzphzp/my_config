@@ -1,0 +1,28 @@
+Host	server
+	HostName	192.168.17.240
+	Port		22
+	User		huangzp
+Host	server234
+	HostName	192.168.6.234
+	Port		22
+	User		huangzp
+Host	server234_out
+	HostName	202.38.69.242
+	Port		6022
+	User		huangzp
+Host	server_out
+	HostName	202.38.69.241
+	Port		37240
+	User		huangzp
+Host    server_new
+    HostName    192.168.9.99
+    Port        22
+    User        huangzp
+Host    server_new_out
+    HostName    202.38.69.241
+    Port        39099
+    User        huangzp
+Host    ourserver_root
+    HostName    45.77.247.182
+    Port        22
+    User        root
